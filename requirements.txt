@@ -1,0 +1,7 @@
+requests
+httpx
+rich
+colorama
+beautifulsoup4
+dnspython
+phonenumbers
